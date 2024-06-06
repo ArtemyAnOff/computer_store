@@ -34,7 +34,7 @@ cd computer_store
 2. Import the provided SQL file into your new database:
 
 ```bash
-mysql -u yourusername -p computer_store < path/to/computer_store.sql
+mysql -u yourusername -p computer_store < path/to/computer_parts_store.sql
 ```
 
 ### 3. Configure the Website
