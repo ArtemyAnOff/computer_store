@@ -24,7 +24,7 @@ This project is a complete website for a computer store, built with a MySQL data
 Clone this repository to your local machine or web server:
 
 ```bash
-git clone https://github.com/ArtemyAnOff/computer-store.git
+git clone https://github.com/ArtemyAnOff/computer_store.git
 cd computer-store
 ```
 
@@ -56,7 +56,17 @@ define('DB_DATABASE', 'computer_store');
 
 ### 5. Access the Website
 
-Open your web browser and go to `http://localhost/computer-store` or your hosting URL to access the website.
+Open your web browser and go to `http://localhost/computer_store` or your hosting URL to access the website.
+
+## Test Accounts
+
+Use the following test accounts to log in and explore different user roles:
+
+- **Admin**: `admin` / `admin`
+- **Employee**: `employee` / `employee`
+- **Anime**: `anime` / `anime`
+- **User1**: `user1` / `12345678`
+- **User2**: `user2` / `0000`
 
 ## Usage
 
@@ -73,7 +83,7 @@ This project is licensed under the MIT License.
 
 ---
 
-For any questions or issues, please contact [your-email@example.com].
+For any questions or issues, please contact [artemy.an.off@gmail.com].
 
 ---
 
