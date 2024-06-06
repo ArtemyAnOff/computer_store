@@ -25,7 +25,7 @@ Clone this repository to your local machine or web server:
 
 ```bash
 git clone https://github.com/ArtemyAnOff/computer_store.git
-cd computer-store
+cd computer_store
 ```
 
 ### 2. Set Up the Database
